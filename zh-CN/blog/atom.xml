@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://linkis.incubator.apache.org/zh-CN/blog</id>
+    <title>Apache Linkis Blog</title>
+    <updated>2022-10-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://linkis.incubator.apache.org/zh-CN/blog"/>
+    <subtitle>Apache Linkis Blog</subtitle>
+    <icon>https://linkis.incubator.apache.org/zh-CN/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Linkis 1.3.0 PES(Public Enhancement Services) 服务组内部分服务的合并]]></title>
+        <id>Linkis 1.3.0 PES(Public Enhancement Services) 服务组内部分服务的合并</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/10/09/linkis-service-merge"/>
+        <updated>2022-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前言]]></summary>
+        <author>
+            <name>aiceflower</name>
+            <uri>https://github.com/aiceflower/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 CDH6.3.2 部署 Apache Linkis1.1.1 和 DSS1.1.0]]></title>
+        <id>基于 CDH6.3.2 部署 Apache Linkis1.1.1 和 DSS1.1.0</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/09/27/linkis111-deploy"/>
+        <updated>2022-09-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前言]]></summary>
+        <author>
+            <name>kevinWdong</name>
+            <uri>https://github.com/kongslove</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linkis1.1.1 适配 hadoop3.1.1 以及部署其他系统服务]]></title>
+        <id>Linkis1.1.1 适配 hadoop3.1.1 以及部署其他系统服务</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/08/08/linkis111-compile-integration"/>
+        <updated>2022-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[环境以及版本]]></summary>
+        <author>
+            <name>ruY9527</name>
+            <uri>https://github.com/ruY9527</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何进行 Kubernetes 部署]]></title>
+        <id>如何进行 Kubernetes 部署</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/07/16/deploy-linkis-with-kubernetes"/>
+        <updated>2022-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 依赖版本]]></summary>
+        <author>
+            <name>jacktao</name>
+            <uri>https://github.com/jacktao007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何编写 Github Action]]></title>
+        <id>如何编写 Github Action</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/07/04/how-to-add-auto-bot"/>
+        <updated>2022-07-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1 概述]]></summary>
+        <author>
+            <name>BeaconTown</name>
+            <uri>https://github.com/Beacontownfc/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Linkis(Incubating) Meet up]]></title>
+        <id>Apache Linkis(Incubating) Meet up</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/06/09/meetup-content-review"/>
+        <updated>2022-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[|Data|Topic & Video|Scripts|]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何下载安装包中默认没有的引擎插件]]></title>
+        <id>如何下载安装包中默认没有的引擎插件</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/04/15/how-to-download-engineconn-plugin"/>
+        <updated>2022-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文主要指引大家如何下载每个版本对应的非默认引擎安装插件包。]]></summary>
+        <author>
+            <name>Casion</name>
+            <uri>https://github.com/casionone/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openLooKeng 的引擎的实现]]></title>
+        <id>openLooKeng 的引擎的实现</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/03/20/openlookeng"/>
+        <updated>2022-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[概述]]></summary>
+        <author>
+            <name>Peacewong</name>
+            <uri>https://github.com/peacewong/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linkis 部署排障]]></title>
+        <id>Linkis 部署排障</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/02/21/linkis-deploy"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[linkis的部署说明和注意点]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何编写博客]]></title>
+        <id>如何编写博客</id>
+        <link href="https://linkis.incubator.apache.org/zh-CN/blog/2022/02/08/how-to-user-blog"/>
+        <updated>2022-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文主要指引大家如何在 Linkis 官网发布博文，欢迎大家提交关于Apache Linkis的博文文档，包括但不仅限于Linkis的安装/源码解析/架构/经验分享等。]]></summary>
+        <author>
+            <name>Casion</name>
+            <uri>https://github.com/casionone/</uri>
+        </author>
+    </entry>
+</feed>
