@@ -1,1 +1,1 @@
-{"message":"API rate limit exceeded for 13.64.11.208. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)","documentation_url":"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"}
+{"message":"Moved Permanently","url":"https://api.github.com/repositories/198368711/contributors?page=1&per_page=1000","documentation_url":"https://docs.github.com/v3/#http-redirects"}
